@@ -3,6 +3,6 @@
     "prettier-plugin-java": "^2.6.7"
   },
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write src/*"
   }
 }
